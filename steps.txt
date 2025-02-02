@@ -1,0 +1,8 @@
+1. Created the folders with the cookie cutter
+2. Created the repo and pushed everything into it by changing some folder names
+3. Started to experiment in notebooks folder.
+4. Processed the data and did eda on it to understant what cleaning is needed
+5. Baseline model : connected dagshub to the git repo and initialized with the code
+6. Train test split on cleaned data and started the mlflow experiment with runs.
+7. Logging tags , params , models, artifacts , data  etc.
+8. Such way experiment all the things and compare the models.
